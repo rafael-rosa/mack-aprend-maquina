@@ -3,13 +3,15 @@
 ## Proposta de problema
 Criar um modelo de machine learning que faça a predição das vendas de montadoras de veículos leves (carros) mês a mês. 
 
-##Dados
+## Dados
 O site da FENABRAVE (Federação Nacional da Distribuição de Veículos Automotores) oferece uma base mensal em formato PDF com os dados de emplacamentos.
 
-##Etapas
+## Etapas
 1. 🔍 EDA
 2. 🛠️ Preparação dos Dados
 3. 📚 Treinamento dos modelos
 4. 📈 Avaliação de performance
 5. 🎯 Aplicação prática
 
+## Sobre o projeto: 
+https://medium.com/@rafael.dsr/predi%C3%A7%C3%A3o-de-vendas-de-ve%C3%ADculos-com-machine-learning-b7b66afb0e0f
